@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/biograpy"
+            android:icon="@drawable/ic_navigate_next_black_24dp"
+            android:title="জীবন বৃত্তান্ত" />
+
+        <item
+            android:id="@+id/initiative"
+            android:icon="@drawable/ic_navigate_next_black_24dp"
+            android:title="উদ্যোগ ও উন্নয়ন" />
+
+        <item
+            android:id="@+id/achivement"
+            android:icon="@drawable/ic_navigate_next_black_24dp"
+            android:title="অর্জন" />
+
+        <item
+            android:id="@+id/digital_service"
+            android:icon="@drawable/ic_navigate_next_black_24dp"
+            android:title="ডিজিটাল সেবা" />
+
+
+        <item
+            android:id="@+id/hello_pm"
+            android:icon="@drawable/ic_navigate_next_black_24dp"
+            android:title="হ্যালো PM" />
+
+        <item
+            android:id="@+id/opinion"
+            android:icon="@drawable/ic_navigate_next_black_24dp"
+            android:title="মতামত ও অভিযোগ" />
+
+    </group>
+
+
+</menu>
