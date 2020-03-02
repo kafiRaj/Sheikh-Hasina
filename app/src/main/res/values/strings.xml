@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Sheikh Hasina</string>
+
+
+
     <string name="app_name_text">শেখ হাসিনা</string>
+    <string name="navigation_open">Navigation_open</string>
+    <string name="navigation_close">Navigation_close</string>
+
+
     <string name="app_tag_text">ডিজিটাল বাংলাদেশের স্বপ্নদ্রষ্টা</string>
     <string name="about_sheikh_hasina">
 
