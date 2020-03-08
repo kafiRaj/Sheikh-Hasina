@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title=""
+        android:icon="@drawable/ic_notifications_active_black_24dp"
+        app:showAsAction="always">
+
+
+    </item>
+
+
+    <item
+        android:title=""
+        android:icon="@drawable/ic_share"
+        app:showAsAction="always"
+        >
+        <menu>
+
+            <item
+                android:title="Facebook"/>
+
+            <item
+                android:title="Messenger"/>
+
+            <item
+                android:title="Email"/>
+
+            <item
+                android:title="Shareit"/>
+
+        </menu>
+
+
+
+    </item>
+
+    <item
+        android:title=""
+        android:icon="@drawable/ic_settings"
+        app:showAsAction="always">
+
+
+        <menu>
+
+            <item
+                android:title="Language"/>
+
+            <item
+                android:title="Other Settings"/>
+
+        </menu>
+
+    </item>
+</menu>
